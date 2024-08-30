@@ -1,0 +1,13 @@
+ body {
+        font-family: Arial, sans-serif;
+        max-width: 800px;
+        margin: auto;
+      }
+      .todo {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10px;
+      }
+      .completed {
+        text-decoration: line-through;
+      }

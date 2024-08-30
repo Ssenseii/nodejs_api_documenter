@@ -1,0 +1,26 @@
+{
+  "name": "express_documentor",
+  "version": "1.0.0",
+  "description": "a documentation tool for express's APIs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "documentation",
+    "express",
+    "test",
+    "api"
+  ],
+  "author": "simon reinhardt",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "marked": "^14.1.0",
+    "nodemon": "^3.1.4",
+    "serve-static": "^1.15.0",
+    "supertest": "^7.0.0"
+  }
+}
